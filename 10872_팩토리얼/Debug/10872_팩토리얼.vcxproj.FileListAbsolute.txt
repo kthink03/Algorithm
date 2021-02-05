@@ -1,0 +1,2 @@
+D:\git\알고리즘\Algorithm\Algorithm\10872_팩토리얼\Debug\10872_팩토리얼.exe
+D:\git\알고리즘\Algorithm\Algorithm\10872_팩토리얼\Debug\10872_팩토리얼.pdb
